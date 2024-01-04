@@ -11,7 +11,6 @@
   <a href="https://discord.movie-web.app"><kbd>🔵 discord</kbd></a> <a href="https://movie-web.app"><kbd>🟢 website</kbd></a>
 </p>
 <br/><br/>
-
 # ⚡What is movie-web?
 
 movie-web is a web app for watching movies easily. Check it out at <a href="https://movie-web.app"><kbd>movie-web.app</kbd></a>.
