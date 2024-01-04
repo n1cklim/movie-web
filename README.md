@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./public/mstile-150x150.png" height="200px"/> 
+<img src="./public/mstile.png" height="200px"/> 
 <h2>
  MOVIE-WEB
 </h2>
