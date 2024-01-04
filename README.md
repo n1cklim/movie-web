@@ -1,6 +1,10 @@
-
-<p align="center"><img align="center" width="280" src="./public/mstile-150x150.png"/></p>
-<p align="center"><img align="center" width="280" src="./.github/logo-light.svg#gh-light-mode-only"/></p>
+<div align="center">
+<img src="./public/mstile-150x150.png" height="50px"/> 
+<h2>
+ MOVIE-WEB
+</h2>
+<p>A small web app for watching movies and shows easily.</p>
+</div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,ts" />
   <br/>
