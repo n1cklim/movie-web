@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./public/android-chrome-192x192.png" height="150px"/> 
+<img src="./public/android-chrome-192x192.png" height="125px"/> 
 <h2>
  MOVIE-WEB
 </h2>
