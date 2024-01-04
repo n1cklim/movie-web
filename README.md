@@ -1,5 +1,5 @@
 
-<p align="center"><img align="center" width="280" src="./public/favicon.ico"/></p>
+<p align="center"><img align="center" width="200" src="./public/favicon.ico"/></p>
 <p align="center"><img align="center" width="280" src="./.github/logo-dark.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/logo-light.svg#gh-light-mode-only"/></p>
 <p align="center">
